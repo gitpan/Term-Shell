@@ -4,7 +4,7 @@
       "Shlomi Fish <shlomif@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.3901, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Module::Build version 0.4005, CPAN::Meta::Converter version 2.120921",
    "keywords" : [
       "console",
       "readline",
@@ -45,11 +45,11 @@
    "provides" : {
       "Term::Shell" : {
          "file" : "lib/Term/Shell.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       },
       "Term::Shell::OnScopeLeave" : {
          "file" : "lib/Term/Shell.pm",
-         "version" : 0
+         "version" : "0.04"
       }
    },
    "release_status" : "stable",
@@ -61,5 +61,5 @@
          "url" : "https://github.com/shlomif/Term-Shell"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }

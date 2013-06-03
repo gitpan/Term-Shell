@@ -1,3 +1,11 @@
+0.04  Mon  3 Jun 17:38:17 IDT 2013
+    - Add an explicit version to Term::Shell::OnScopeLeave.
+        - to settle the PAUSE indexer.
+    - Convert t/01require.t to Test::More and strict/warnings.
+    - Convert t/02default.t to Test::More and strict/warnings.
+    - Add "use warnings;" to t/03catchsmry.t .
+
+0.03  Sun 14 Oct 11:03:52 IST 2012
     - Moved test.pl under examples so it won't interfere with the building
     and testing.
         - See https://rt.cpan.org/Public/Bug/Display.html?id=40771
